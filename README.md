@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/trydavid/" target="_blank">
+  <a href="http://linkedin.com/in/trydavidqix/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://wa.me/351910390394" target="_blank">
@@ -16,15 +16,13 @@
   </a>
 </div>
 
-
 ###
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Hello%2C+I%27m+David+William!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Hi%2C+I%27m+David+William!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
   </a>
 </p>
-
 
 ###
 
@@ -37,14 +35,13 @@
   - ⚡ In my free time, I enjoy exploring new technologies, creating small projects, and learning more about the tech industry.<br>
 </p>
 </div>
+
 <div align="center">
-  <a href="https://github.com/trydavid">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=trydavid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trydavid&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/trydavidqix">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=trydavidqix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trydavidqix&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-
-
 
 ###
 
@@ -67,6 +64,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-
-###
-
