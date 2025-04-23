@@ -33,7 +33,7 @@ const david = {
   foco: ["Front-End", "React", "TypeScript", "Tailwind"],
 }
 ````
-Tecnologias que uso no dia a dia
+
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" /> <img width="15" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" /> <img width="15" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="Tailwind CSS" /> </div>
 
 
