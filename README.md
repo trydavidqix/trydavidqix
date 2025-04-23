@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=500&center=true&vCenter=true&lines=Eai%2C+me+chamo+David+William!;Front-End+Developer+em+constante+evolução...;Amante+de+tecnologia%2C+código+e+design." alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FEEF&width=500&center=true&vCenter=true&lines=Eai%2C+me+chamo+David+William!;Front-End+Developer+em+constante+evolução...;Amante+de+tecnologia%2C+código+e+design." 
+  />
 </div>
+
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
