@@ -42,7 +42,8 @@ Pronto pra aprender, contribuir e crescer.
 
 ### Testes & Suporte
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="60" alt="Cypress" />
+  <img src="https://cdn.simpleicons.org/cypress" height="60" alt="Cypress" />
+
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
   <img width="20" />
