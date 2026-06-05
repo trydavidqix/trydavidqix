@@ -66,10 +66,19 @@ Disciplina de quem veio de operações. Curiosidade de quem vive em código.
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trydavidqix&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trydavidqix&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
-</div>
+<p>
+    <div align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iswb04&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iswb04&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+      />
+    </div>
+</p>
 
 ---
 
