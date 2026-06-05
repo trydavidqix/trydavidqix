@@ -17,37 +17,49 @@
 
 ## 🧠 Sobre mim
 
-Ex-profissional de logística, agora focado em backend com Java e Spring Boot. Estudante de Engenharia de Software, buscando a primeira oportunidade na área.
+Em transição para **Machine Learning Engineering**.
 
-Tenho maturidade e disciplina para construir sistemas robustos e escaláveis. Também estudo SQL, Docker, Cypress e front-end com React e TypeScript para evoluir como full stack.
+Estudo Python, matemática para ML, deep learning e MLOps com foco em construir sistemas inteligentes e escaláveis. Também desenvolvo no frontend com **React + TypeScript + Tailwind** e mobile com **React Native** — o que me dá visão de produto além do modelo.
 
-Pronto pra aprender, contribuir e crescer.
+Disciplina de quem veio de operações. Curiosidade de quem vive em código.
 
 ---
 
-## 🚀 Tecnologias & Stack
+## 🚀 Stack
 
-### Backend
+### ML & Dados
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="Spring Boot" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" title="TensorFlow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="scikit-learn" title="scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure AI" title="Azure AI" />
 </div>
 
-### Testes & Suporte
+### Frontend & Mobile
 <div align="center">
-  <img src="https://cdn.simpleicons.org/cypress" height="60" alt="Cypress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="Tailwind CSS" title="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Native" title="React Native" />
+</div>
 
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+### Ferramentas
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub" />
 </div>
 
 ---
@@ -58,6 +70,12 @@ Pronto pra aprender, contribuir e crescer.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trydavidqix&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trydavidqix&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
 </div>
+
+---
+
+## 🎯 Em construção
+
+Trilha **ML Engineer Júnior** — Python · Deep Learning · MLOps · Azure AI  
 
 ---
 
